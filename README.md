@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyajit Sahu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Satyajit Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">

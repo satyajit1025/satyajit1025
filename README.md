@@ -1,3 +1,4 @@
+![programmer_text_1](https://github.com/user-attachments/assets/19932749-8e58-4d93-a150-ae1f80d6ce2b)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Satyajit Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

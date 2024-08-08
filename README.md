@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Satyajit Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit1025&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit1025" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tnyaqz8PdnAmD4KN_aE36O4UyuQllnbi/view?usp=drive_link](https://drive.google.com/file/d/1tnyaqz8PdnAmD4KN_aE36O4UyuQllnbi/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I'm Funny 😅**
+- ⚡ Fun fact **I'm Funny 😅**
 
 <p align="left"> <a href="https://twitter.com/satyajit2029" target="blank"><img src="https://img.shields.io/twitter/follow/satyajit2029?logo=twitter&style=for-the-badge" alt="satyajit2029" /></a> </p>
 

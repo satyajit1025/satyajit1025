@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **satyajit1025@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tnyaqz8PdnAmD4KN_aE36O4UyuQllnbi/view?usp=drive_link](https://drive.google.com/file/d/1tnyaqz8PdnAmD4KN_aE36O4UyuQllnbi/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1P4mkSC74MDrVEdNK9oWIUmuWLC2Y3V2-/view?usp=drive_link
 
 - ⚡ Fun fact **I'm Funny 😅**
 

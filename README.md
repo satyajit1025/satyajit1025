@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit1025&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit1025" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React Js, Angular**
+- 🌱 I’m currently learning **Javascript, React Js, Node Js, Expresss Js**
 
 - 👨‍💻 All of my projects are available at [https://ssahu-portfolio.netlify.app](https://ssahu-portfolio.netlify.app)
 

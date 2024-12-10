@@ -1,12 +1,12 @@
 ![programmer_text_1](https://github.com/user-attachments/assets/19932749-8e58-4d93-a150-ae1f80d6ce2b)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Satyajit Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit1025&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit1025" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React Js, Node Js, Expresss Js**
+- 🌱 I’m currently learning **Javascript, JIRA, Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://ssahu-portfolio.netlify.app](https://ssahu-portfolio.netlify.app)
 

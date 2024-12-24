@@ -47,4 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit1025&theme=default&count_private=true" align="center" />
 </p>
 </br>
+<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 <h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>

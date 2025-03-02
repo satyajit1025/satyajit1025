@@ -1,4 +1,4 @@
-![programmer_text_1](https://github.com/user-attachments/assets/19932749-8e58-4d93-a150-ae1f80d6ce2b)
+![Yellow Modern Freelance Copywriter LinkedIn Banner](https://github.com/Shaik-Subhan-Vali/Shaik-Subhan-Vali/assets/170219220/5278afa8-1769-4f8e-afb7-4727fad9ca91)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Satyajit Sahu</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 

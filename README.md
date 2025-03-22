@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **satyajit1025@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1P4mkSC74MDrVEdNK9oWIUmuWLC2Y3V2-/view?usp=drive_link
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1en9rBxdhSkHyVrh0eGoLKbVdcHqAOkcT/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny 😅**
 
@@ -30,7 +30,6 @@
 <a href="https://linkedin.com/in/satyajit-sahu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajit-sahu10" height="30" width="40" /></a>
 <a href="https://instagram.com/ll___satyajit___ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll___satyajit___ll" height="30" width="40" /></a>
 <a href="https://dribbble.com/satya_1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="satya_1025" height="30" width="40" /></a>
-<a href="https://www.behance.net/satya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="satya10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/satyajit1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyajit1025" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyajit1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyajit1025" height="30" width="40" /></a>
 </p>

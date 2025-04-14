@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit1025&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit1025" /> </p>
 
-- 🌱 I’m currently learning **Selenium, Maven, Jenkins**
+- 🌱 I’m currently learning **Mobile Testing, Appium**
 
 - 👨‍💻 All of my projects are available at [https://ssahu-portfolio.netlify.app](https://ssahu-portfolio.netlify.app)
 
-- 💬 Ask me about **JavaScript, CSS, HTML, Cypress**
+- 💬 Ask me about **Java, JavaScript, CSS, HTML, Cypress, Selenium**
 
 - 📫 How to reach me **satyajit1025@gmail.com**
 
